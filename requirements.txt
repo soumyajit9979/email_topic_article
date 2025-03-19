@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn
+psycopg2 
+pandas 
+openpyxl
+openai
